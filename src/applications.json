@@ -1,0 +1,9 @@
+{
+    "applications": [
+        {"title": "Application One"},
+        {"title": "Application Two"},
+        {"title": "Application Three"},
+        {"title": "Application Four"},
+        {"title": "Application Five"}
+    ]
+}
